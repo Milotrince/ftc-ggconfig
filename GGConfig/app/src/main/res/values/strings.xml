@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GGConfig</string>
+    <string name="settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="create">Create</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="open">Open</string>
+    <string name="new_config">New</string>
+    <string name="save">Save</string>
+    <string name="add_command">Add command</string>
+    <string name="about">About</string>
+    <string name="saved">Saved</string>
+    <string name="configs_path">Configuration Folder</string>
+</resources>
